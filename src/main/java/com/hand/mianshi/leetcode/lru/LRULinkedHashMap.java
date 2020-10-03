@@ -1,4 +1,4 @@
-package com.hand.mianshi.leetcode;
+package com.hand.mianshi.leetcode.lru;
 
 import java.util.LinkedHashMap;
 
